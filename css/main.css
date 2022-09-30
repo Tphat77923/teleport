@@ -4,6 +4,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
     background-color: #131b21;
+  
 }
 .bgn {
     background-color: black;
@@ -22,10 +23,10 @@ line-height: 1.2;
     font-weight: 700;
     padding-top: 30px;
 }
-.Hbot {
-    color: #AD91FF !important;
+.teleportbot {
+    color: #fcf808 !important;
 }
-.Hbot:hover {
+.teleportbot:hover {
     font-size: 30px;
     text-shadow: #ffffff;
 }
@@ -99,7 +100,7 @@ ul.social-icons {
     background-color: #322f30;
 }
 .fa-twitter:hover {
-    background-color: #00aced;
+    background-color: #1D9BF0;
 }
 .fa-github {
     padding:10px 14px;
@@ -111,7 +112,7 @@ ul.social-icons {
     background-color: #322f30;
 }
 .fa-github:hover {
-    background-color: #5a32a3;
+    background-color: #a0a080;
 }
 .add_to_discord {
     display: flex;
