@@ -1,6 +1,7 @@
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
+	
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
@@ -12,6 +13,10 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+if (document.startus == "404" )
+	function Redirect() {
+               document.location="https://teleport.tk/pages/404.html";
+	}
 // commands search script
 $(document).ready(function(){
     $("#myInput").on("keyup", function() {

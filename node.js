@@ -1,1 +1,1 @@
-console.log('ok')
+if (document.error) 
