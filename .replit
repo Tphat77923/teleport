@@ -19,7 +19,6 @@ pattern = "**/*.html"
   autoCreateQuotes = true
   autoClosingTags = true
   mirrorCursorOnMatchingTag = false
-  ErrorDocument404 = "pages/404.html"
     [languages.html.languageServer.configuration.html.completion]
     attributeDefaultValue = "doublequotes"
   
