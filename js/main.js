@@ -13,10 +13,7 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
-if (document.startus == "404" )
-	function Redirect() {
-               document.location="https://teleport.tk/pages/404.html";
-	}
+
 // commands search script
 $(document).ready(function(){
     $("#myInput").on("keyup", function() {
