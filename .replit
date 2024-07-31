@@ -176,3 +176,7 @@ pattern = "**/{*.less,*.scss,*.css}"
       vendorPrefix = "warning" # When using a vendor-specific prefix also include the standard property
       zeroUnits = "ignore" # No unit for zero needed"
 
+[[ports]]
+localPort = 80
+externalPort = 80
+
